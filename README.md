@@ -1,6 +1,6 @@
 # Simple Scanner for Android App (simple-scanner)
 
-A Quasar Project
+Quasar + Capacitor - Simples barcode Scanner
 
 ## Install the dependencies
 ```bash
